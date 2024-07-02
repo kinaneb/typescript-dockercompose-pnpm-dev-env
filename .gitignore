@@ -1,0 +1,7 @@
+node_modules
+js
+.DS_Store
+pnpm-lock.yaml
+.env
+*.temp
+.pnpm-store/
