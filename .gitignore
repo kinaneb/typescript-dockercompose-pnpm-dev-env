@@ -5,3 +5,9 @@ pnpm-lock.yaml
 .env
 *.temp
 .pnpm-store/
+tsconfig.json
+package.json
+build/
+!app/tsconfig.json
+!app/package.json
+!app/build
